@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven build files
+target/
+
+# Environment
+.env
+
+# Logs
+*.log
