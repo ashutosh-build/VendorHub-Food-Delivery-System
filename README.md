@@ -63,4 +63,4 @@ JWT Authentication
 Password Encryption using BCrypt
 Role-Based Authorization
 Protected Endpoints
-OTP-Based Email Verification
+OTP-Based Email Verification....
